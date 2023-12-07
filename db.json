@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Mandar Deshpande",
+      "email": "md111@gmail.com",
+      "phone": "08855883832",
+      "isActive": false
+    },
+    {
+      "id": 2,
+      "name": "Omkar Jagtap",
+      "email": "oj555@gmial.com",
+      "phone": "9146889955",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "aniket",
+      "email": "aniketp3898@gmail.com",
+      "phone": "09975178185",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Aditi Jagtap",
+      "email": "aditi999@gmail.com",
+      "phone": "8529637410",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "mansi Deshpamde",
+      "email": "mansi444@gmail.com",
+      "phone": "7894561230",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "name": "bhagyashali phadatare",
+      "email": "Bhagya555@gmail.com",
+      "phone": "7896541230",
+      "isActive": true
+    }
+  ]
+}
